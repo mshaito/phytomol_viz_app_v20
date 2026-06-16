@@ -1,0 +1,13 @@
+Time_ns,Complex,RMSD
+0,Alpha-vetivone-AKT1,0.1
+10,Alpha-vetivone-AKT1,0.18
+20,Alpha-vetivone-AKT1,0.22
+30,Alpha-vetivone-AKT1,0.25
+40,Alpha-vetivone-AKT1,0.23
+50,Alpha-vetivone-AKT1,0.24
+0,Rosifoliol-STAT3,0.12
+10,Rosifoliol-STAT3,0.21
+20,Rosifoliol-STAT3,0.28
+30,Rosifoliol-STAT3,0.31
+40,Rosifoliol-STAT3,0.29
+50,Rosifoliol-STAT3,0.3

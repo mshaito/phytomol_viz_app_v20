@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#f8fafc"/>
+  <circle cx="256" cy="256" r="190" fill="#2563eb" opacity="0.12"/>
+  <path d="M150 260 c50 -95 160 -95 212 0 c-45 100 -165 100 -212 0z" fill="#8b5cf6" opacity="0.75"/><path d="M145 225 c70 45 150 45 225 0" stroke="#fff" stroke-width="16" fill="none"/>
+  <text x="256" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#334155">PPI</text>
+</svg>

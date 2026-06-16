@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#f8fafc"/>
+  <circle cx="256" cy="256" r="190" fill="#475569" opacity="0.12"/>
+  <rect x="155" y="115" width="205" height="260" rx="20" fill="#ffffff" stroke="#334155" stroke-width="14"/><line x1="190" y1="180" x2="325" y2="180" stroke="#0f766e" stroke-width="12"/><line x1="190" y1="230" x2="325" y2="230" stroke="#0f766e" stroke-width="12"/><line x1="190" y1="280" x2="285" y2="280" stroke="#0f766e" stroke-width="12"/>
+  <text x="256" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#334155">REPORT</text>
+</svg>

@@ -1,0 +1,11 @@
+Compound,Protein,Target_Class,Cancer_Context
+Alpha-vetivone,AKT1,Kinase,Colorectal/Lung
+Alpha-vetivone,STAT3,Transcription factor,Colorectal/Lung
+Rosifoliol,AKT1,Kinase,Colorectal/Lung
+Rosifoliol,PTGS2,Enzyme,Inflammation/Cancer
+Khusimol,ESR1,Nuclear receptor,Cancer signaling
+Khusimol,STAT3,Transcription factor,Colorectal/Lung
+Beta-eudesmol,AKT1,Kinase,Colorectal/Lung
+Beta-eudesmol,PTGS2,Enzyme,Inflammation/Cancer
+Isovalencenol,STAT3,Transcription factor,Colorectal/Lung
+Alpha-vetivol,ESR1,Nuclear receptor,Cancer signaling

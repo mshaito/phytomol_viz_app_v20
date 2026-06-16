@@ -1,0 +1,9 @@
+Compound,MW,LogP,TPSA,HBA,HBD,Rotatable_Bonds,GI_Absorption,Blood_Brain_Barrier,Drug_Likeness
+Khusimol,222.37,3.8,20.2,1,1,2,High,Yes,Pass
+Beta-eudesmol,222.37,3.7,20.2,1,1,2,High,Yes,Pass
+Alpha-vetivone,218.34,3.4,17.1,1,0,1,High,Yes,Pass
+Rosifoliol,222.37,3.2,20.2,1,1,2,High,Yes,Pass
+Isovalencenol,220.35,3.6,20.2,1,1,2,High,Yes,Pass
+Alpha-vetivol,222.37,3.5,20.2,1,1,2,High,Yes,Pass
+Valencene,204.35,4.6,0.0,0,0,0,High,Yes,Pass
+Cedrenol,222.37,3.9,20.2,1,1,1,High,Yes,Pass

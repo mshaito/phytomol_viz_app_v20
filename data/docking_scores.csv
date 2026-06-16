@@ -1,0 +1,9 @@
+Compound,Protein,Docking_Score,Hydrogen_Bonds,Key_Residues
+Alpha-vetivone,AKT1,-8.5,2,"Lys179, Glu228"
+Alpha-vetivone,STAT3,-8.1,1,"Arg609"
+Rosifoliol,AKT1,-8.2,2,"Val164, Lys179"
+Rosifoliol,STAT3,-7.9,2,"Ser611, Glu638"
+Khusimol,AKT1,-7.4,1,"Asp292"
+Khusimol,STAT3,-7.6,1,"Lys591"
+Beta-eudesmol,PTGS2,-7.8,2,"Tyr385, Ser530"
+Alpha-vetivol,ESR1,-7.2,1,"Glu353"

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+<rect width="1400" height="420" rx="34" fill="#f8fafc"/>
+<text x="60" y="90" font-family="Arial" font-size="52" font-weight="700" fill="#0f172a">PhytoMol-Viz Workflow</text>
+<text x="60" y="140" font-family="Arial" font-size="28" fill="#475569">From natural products to targets, networks, docking, and molecular dynamics</text>
+<g font-family="Arial" font-size="24" font-weight="700" text-anchor="middle">
+<rect x="70" y="220" width="150" height="70" rx="18" fill="#ccfbf1"/><text x="145" y="264" fill="#115e59">GC-MS</text>
+<rect x="260" y="220" width="150" height="70" rx="18" fill="#dbeafe"/><text x="335" y="264" fill="#1e3a8a">ADMET</text>
+<rect x="450" y="220" width="170" height="70" rx="18" fill="#ede9fe"/><text x="535" y="264" fill="#4c1d95">Targets</text>
+<rect x="660" y="220" width="170" height="70" rx="18" fill="#ffedd5"/><text x="745" y="264" fill="#7c2d12">Networks</text>
+<rect x="870" y="220" width="170" height="70" rx="18" fill="#dcfce7"/><text x="955" y="264" fill="#14532d">Docking</text>
+<rect x="1080" y="220" width="170" height="70" rx="18" fill="#e0e7ff"/><text x="1165" y="264" fill="#312e81">MD</text>
+</g>
+<g stroke="#64748b" stroke-width="8" stroke-linecap="round"><line x1="225" y1="255" x2="255" y2="255"/><line x1="415" y1="255" x2="445" y2="255"/><line x1="625" y1="255" x2="655" y2="255"/><line x1="835" y1="255" x2="865" y2="255"/><line x1="1045" y1="255" x2="1075" y2="255"/></g>
+</svg>

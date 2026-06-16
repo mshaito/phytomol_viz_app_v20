@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="90" viewBox="0 0 320 90">
+  <rect width="320" height="90" rx="18" fill="#f5f7fb"/>
+  <circle cx="46" cy="45" r="22" fill="#dff3e4" stroke="#2f855a" stroke-width="3"/>
+  <path d="M36 50 C45 32, 57 32, 58 50 C50 45, 43 45, 36 50" fill="#2f855a"/>
+  <text x="85" y="39" font-family="Arial" font-size="25" font-weight="700" fill="#25313b">PhytoMol-Viz</text>
+  <text x="86" y="64" font-family="Arial" font-size="14" fill="#52616b">Natural Product Discovery Visualization</text>
+</svg>

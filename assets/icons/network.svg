@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#f8fafc"/>
+  <circle cx="256" cy="256" r="190" fill="#ea580c" opacity="0.12"/>
+  <circle cx="170" cy="190" r="32" fill="#0f766e"/><circle cx="330" cy="165" r="32" fill="#0f766e"/><circle cx="260" cy="315" r="32" fill="#0f766e"/><path d="M195 190 L300 170 M185 215 L245 295 M320 190 L275 295" stroke="#334155" stroke-width="12"/>
+  <text x="256" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#334155">NETWORK</text>
+</svg>
